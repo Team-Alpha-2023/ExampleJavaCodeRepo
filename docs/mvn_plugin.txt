@@ -8,7 +8,7 @@
                 <configuration>
                     <archive>
                         <manifest>
-                            <mainClass>org.example.SimpleMultiThreadedServer</mainClass>
+                            <mainClass>org.example.day1.SimpleMultiThreadedServer</mainClass>
                         </manifest>
                     </archive>
                 </configuration>
